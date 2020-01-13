@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/extractorXML-v1/static/css/main.d531fdb1.chunk.css",
-    "main.js": "/extractorXML-v1/static/js/main.ac2fedc4.chunk.js",
-    "main.js.map": "/extractorXML-v1/static/js/main.ac2fedc4.chunk.js.map",
+    "main.js": "/extractorXML-v1/static/js/main.1a7bf3b3.chunk.js",
+    "main.js.map": "/extractorXML-v1/static/js/main.1a7bf3b3.chunk.js.map",
     "runtime-main.js": "/extractorXML-v1/static/js/runtime-main.3b6a802c.js",
     "runtime-main.js.map": "/extractorXML-v1/static/js/runtime-main.3b6a802c.js.map",
     "static/css/2.66e62f61.chunk.css": "/extractorXML-v1/static/css/2.66e62f61.chunk.css",
     "static/js/2.b8981e66.chunk.js": "/extractorXML-v1/static/js/2.b8981e66.chunk.js",
     "static/js/2.b8981e66.chunk.js.map": "/extractorXML-v1/static/js/2.b8981e66.chunk.js.map",
     "index.html": "/extractorXML-v1/index.html",
-    "precache-manifest.fda001d6f8812eff9b96a24694166099.js": "/extractorXML-v1/precache-manifest.fda001d6f8812eff9b96a24694166099.js",
+    "precache-manifest.92f51aa63a29fc7716464c9c490a3852.js": "/extractorXML-v1/precache-manifest.92f51aa63a29fc7716464c9c490a3852.js",
     "service-worker.js": "/extractorXML-v1/service-worker.js",
     "static/css/2.66e62f61.chunk.css.map": "/extractorXML-v1/static/css/2.66e62f61.chunk.css.map",
     "static/css/main.d531fdb1.chunk.css.map": "/extractorXML-v1/static/css/main.d531fdb1.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.66e62f61.chunk.css",
     "static/js/2.b8981e66.chunk.js",
     "static/css/main.d531fdb1.chunk.css",
-    "static/js/main.ac2fedc4.chunk.js"
+    "static/js/main.1a7bf3b3.chunk.js"
   ]
 }
