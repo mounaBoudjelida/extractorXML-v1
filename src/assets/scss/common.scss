@@ -1,0 +1,22 @@
+@import "colors";
+
+.btn-outline-info{
+    color: $backgroundColor !important;
+    border-color: $backgroundColor !important;
+}
+.btn-outline-info:hover{
+    color: $white-color !important;
+    background-color: $backgroundColor !important;
+}
+
+.btn-info{
+    background-color: $backgroundColor !important; 
+    border-color: $backgroundColor !important; 
+}
+
+.btn-info:hover{
+    background-color: #17a2b8 !important; 
+    border-color: #17a2b8  !important;
+}
+
+

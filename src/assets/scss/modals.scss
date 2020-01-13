@@ -1,0 +1,23 @@
+.my-modal {
+    width: 100vw;    /* Occupy the 80% of the screen width */
+    
+    z-index: 10000000000;
+    
+}
+
+
+.player-wrapper {
+    position: relative;
+    
+    padding-top: 50% /* Player ratio: 100 / (1280 / 720) last thing i do*/
+  }
+  
+  .ag-grid-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+.fa-ellipsis-h:hover{
+  cursor: pointer;
+}
